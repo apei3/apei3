@@ -20,3 +20,6 @@ This is my academic GitHub account for coursework and class projects.
 
 📌 You can find my full portfolio and GitHub activity here:  
 👉 [@Dollars7](https://github.com/Dollars7)
+
+**Contribution Calendar (apei3)**  
+![University Contributions](https://ghchart.rshah.org/apei3)
