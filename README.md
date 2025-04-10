@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Ailun Pei.
+
+This is my academic GitHub account for coursework and class projects.
+
+📌 You can find my full portfolio and GitHub activity here:  
+👉 [@Dollars7](https://github.com/Dollars7)
