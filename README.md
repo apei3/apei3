@@ -1,5 +1,5 @@
 ## Hi there 👋
-![My Image](images/Banner.png)
+![Project Banner](Banner.png)
 <!--
 **apei3/apei3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
