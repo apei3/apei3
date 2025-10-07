@@ -20,10 +20,10 @@ This is my academic GitHub account for coursework and class projects.
 
 <p align="center">
   <a href="https://dollars7.github.io/resume/SDE/">
-    <img src="https://img.shields.io/badge/Resume-View-4A90E2?style=social" alt="Resume">
+    <img src="https://img.shields.io/badge/📄_Resume-4A90E2?style=plastic" alt="Resume">
   </a>
   <a href="https://github.com/Dollars7">
-    <img src="https://img.shields.io/badge/GitHub-@Dollars7-181717?style=social&logo=github" alt="Main GitHub">
+    <img src="https://img.shields.io/badge/🔗_Main_GitHub-181717?style=plastic&logo=github" alt="Main GitHub">
   </a>
 </p>
 ---
