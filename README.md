@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 Hi, I'm Ailun Pei.
 
 This is my academic GitHub account for coursework and class projects.
-## Hi there 👋
-![Project Banner](Banner.png)
-
-Hi, I'm Ailun Pei.  
-This is my academic GitHub account for coursework and class projects.
 
 <p align="center">
   <a href="https://dollars7.github.io/resume/SDE/">
