@@ -17,18 +17,35 @@ Here are some ideas to get you started:
 Hi, I'm Ailun Pei.
 
 This is my academic GitHub account for coursework and class projects.
+## Hi there 👋
+![Project Banner](Banner.png)
 
-🔭 I’m currently working on some fun side projects involving interactive visualizations, self-tracking tools, and creative coding experiments.
+Hi, I'm Ailun Pei.  
+This is my academic GitHub account for coursework and class projects.
 
-🌱 I’m currently learning computer graphics, shader programming, data visualization, and algorithms. I’ve also been tinkering with D3.js and refining my design-to-code workflow.
+<p align="center">
+  <a href="https://dollars7.github.io/resume/SDE/">
+    <img src="https://img.shields.io/badge/📄_Resume-4A90E2?style=for-the-badge" alt="Resume">
+  </a>
+  <a href="https://github.com/Dollars7">
+    <img src="https://img.shields.io/badge/🔗_Main_GitHub-181717?style=for-the-badge&logo=github" alt="Main GitHub">
+  </a>
+</p>
 
-👯 I’m looking to collaborate on creative tech projects that blend art and code—especially ones with a visual or interactive twist.
+---
 
-🤔 I’m looking for help with making deep learning models more interpretable and designing intuitive user interfaces for data-driven tools.
+🔭 I'm currently working on some fun side projects involving interactive visualizations, self-tracking tools, and creative coding experiments.
+
+🌱 I'm currently learning computer graphics, shader programming, data visualization, and algorithms. I've also been tinkering with D3.js and refining my design-to-code workflow.
+
+👯 I'm looking to collaborate on creative tech projects that blend art and code—especially ones with a visual or interactive twist.
+
+🤔 I'm looking for help with making deep learning models more interpretable and designing intuitive user interfaces for data-driven tools.
 
 💬 Ask me about creative coding, building structured-yet-flexible systems in Notion, or how I use data and routines to stay grounded and curious.
 
 ⚡ Fun fact: I track glucose, mood, and training recovery to align my work rhythms with my biology—like running my own little lab
+
 
 <!--
 📌 You can find my full portfolio and GitHub activity here:  
